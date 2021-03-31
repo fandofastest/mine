@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+sudo su
 wget https://ftp.gnu.org/gnu/glibc/glibc-2.18.tar.gz
 tar -zxvf glibc-2.18.tar.gz
  cd glibc-2.18 && mkdir build
