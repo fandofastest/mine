@@ -1,4 +1,4 @@
-
+#!/bin/bash
 wget https://ftp.gnu.org/gnu/glibc/glibc-2.18.tar.gz
 
 tar -zxvf glibc-2.18.tar.gz
